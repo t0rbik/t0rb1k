@@ -23,7 +23,6 @@
 <a href="https://linkedin.com/in/igortorbin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="igortorbin" height="30" width="40" /></a>
 <a href="https://instagram.com/igortorbin_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="igortorbin_" height="30" width="40" /></a>
 </p>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&multiline=true&width=435&lines=Hello!;Feel+free+to+contact+me)](https://git.io/typing-svg)
 
 
 <h3 align="left">Languages and Tools:</h3>
