@@ -1,4 +1,4 @@
-# t0rb1k
+# t0rbik
 [![forthebadge](https://forthebadge.com/images/badges/gluten-free.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/ctrl-c-ctrl-v.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/fixed-bugs.svg)](https://forthebadge.com)
@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Rust**
 
-- 💬 Ask me about **react, svelte**
+- 💬 Ask me about **React, Svelte**
 
 - 📫 How to reach me **t.me/t0rb1k**
 
