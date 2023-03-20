@@ -20,8 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/t0rbik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="t0rbik" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/igortorbin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="igortorbin" height="30" width="40" /></a>
-<a href="https://instagram.com/igortorbin_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="igortorbin_" height="30" width="40" /></a>
+<a href="https://t.me/t0rb1k" target="blank"><img align="center" src="https://gist.githubusercontent.com/m8rge/4c2b36369c9f936c02ee883ca8ec89f1/raw/c03fd44ee2b63d7a2a195ff44e9bb071e87b4a40/telegram-single-path-240px.svg" alt="igortorbin" height="30" width="40" /></a>
 </p>
 
 
