@@ -7,9 +7,7 @@
 <h1 align="center">Hi 👋, I'm t0rbik</h1>
 <h3 align="center">frontend developer</h3>
 
-- 🔭 I’m currently working on **AmpliFi**
-
-- 🌱 I’m currently learning **Rust**
+- 🔭 I’m currently working on **DeFi**
 
 - 💬 Ask me about **React, Svelte**
 
