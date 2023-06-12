@@ -9,11 +9,9 @@
 
 - 🔭 I’m currently working on **DeFi**
 
-- 💬 Ask me about **React, Svelte**
-
 - 📫 How to reach me **t.me/t0rb1k**
 
-- ⚡ Fun fact **crypto will change the world**
+- ⚡ Fun fact **crypto is changing the world**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
