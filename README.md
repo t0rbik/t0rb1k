@@ -5,7 +5,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/made-with-typescript.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
 <h1 align="center">Hi 👋, I'm t0rbik</h1>
-<h3 align="center">frontend developer</h3>
+<h3 align="center">blockchain developer</h3>
 
 - 🔭 I’m currently working on **DeFi**
 
