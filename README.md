@@ -6,7 +6,6 @@
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
 
 - 🔭 I’m currently working on **DeFi**
-- 📫 How to reach me **t.me/t0rb1k**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
